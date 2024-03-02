@@ -2,6 +2,6 @@
   include 'admin/php_files/database.php';
 
   // $hostname = "http://localhost/shoppingproject-yb";
-  $hostname = "http://localhost/shopping-project";
+  $hostname = "https://mohdtabish75.github.io/Php-ecommerce/";
     
 ?>
